@@ -14,7 +14,7 @@ $color4: rgb(4, 23, 36); //color de .navbar
 }
 
 .navbar{
-    background-image: linear-gradient(to right top, #000000, #0c070a, #120e14, #15141b, #151a23, #141d27, #12202b, #0f232e, #0d232f, #0b2430, #082432, #062433);
+        background-image: linear-gradient(to right, #000000, #060304, #0a060a, #0c090f, #0c0d14, #0d1118, #0d141b, #0c171e, #0c1a23, #0b1d28, #09212e, #062433);
 }
 
 .nav-link{
@@ -151,7 +151,7 @@ footer img{
 
 @media only screen and (min-width: 0) and (max-width:576px){
     .navbar-collapse{
-        background-color: $color4;
+        background-image: linear-gradient(to right, #000000, #060304, #0a060a, #0c090f, #0c0d14, #0d1118, #0d141b, #0c171e, #0c1a23, #0b1d28, #09212e, #062433);
         display: flex;
         justify-content: right;
     }
