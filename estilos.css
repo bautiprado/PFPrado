@@ -147,9 +147,6 @@ footer img {
     background-image: linear-gradient(to right, #000000, #060304, #0a060a, #0c090f, #0c0d14, #0d1118, #0d141b, #0c171e, #0c1a23, #0b1d28, #09212e, #062433);
     display: flex;
     justify-content: right;
-  }
-  .jumbotron{
-    font-size: 24px;
   }  
   section {
     background-color: rgb(36, 63, 97);
