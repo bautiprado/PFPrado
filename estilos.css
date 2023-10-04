@@ -148,6 +148,9 @@ footer img {
     display: flex;
     justify-content: right;
   }
+  .jumbotron{
+    font-size: 24px;
+  }  
   section {
     background-color: rgb(36, 63, 97);
   }
