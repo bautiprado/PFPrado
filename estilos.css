@@ -155,14 +155,14 @@ footer img {
     max-width: 100%;
     margin: 0;
     padding: 0;
-    height: 230px !important;
+    height: 225px !important;
     display: flex;
     background-size: cover;
     background-position: center;
     margin-bottom: 0 !important;
   }
   .carousel-item img {
-    max-height: 230px;
+    max-height: 225px;
   }
   .carousel-indicators {
     bottom: -20px;
